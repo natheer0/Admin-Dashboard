@@ -17,10 +17,10 @@ The dashboard is designed to manage internal modules like user data, programs, a
 ## 🖼️ Screenshots | صور من الواجهة
 
 ### 🏠 Dashboard Home | الصفحة الرئيسية
-![Dashboard Home](images/dashboard-home.png)
+![Dashboard Home](dashboard-home.png)
 
 ### 📝 Form Page | صفحة النموذج
-![Form Page](images/dashboard-form.png)
+![Form Page](dashboard-form.png)
 
 ---
 
